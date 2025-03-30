@@ -1,0 +1,16 @@
+{
+  "hash": "6f54151b8bf5cc0b385ead9f70f0920a",
+  "result": {
+    "markdown": "---\ntitle: \"Humanitarian Risk Dashboard\"\nformat: html\nexecute:\n  freeze: auto\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Security Risk Explorer"
+  navbar:
+    left:
+      - text: "Dashboard"
+        file: index.qmd
+      - text: "About"
+        file: about.qmd
+      - text: "Summary Stats"
+        file: summary.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    page-layout: full

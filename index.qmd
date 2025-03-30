@@ -1,0 +1,8 @@
+---
+title: "Humanitarian Risk Dashboard"
+format: html
+execute:
+  freeze: auto
+---
+
+<iframe src="https://scholarshipdsan.shinyapps.io/humanitarian-risk-dashboard/" width="100%" height="800px" frameborder="0"></iframe>

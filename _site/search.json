@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Humanitarian Risk Dashboard",
+    "section": "",
+    "text": "Warning: package 'dplyr' was built under R version 4.2.3\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nWarning: package 'leaflet' was built under R version 4.2.3\n\n\nWarning: package 'ggplot2' was built under R version 4.2.3\n\n\nWarning: package 'plotly' was built under R version 4.2.3\n\n\n\nAttaching package: 'plotly'\n\n\nThe following object is masked from 'package:ggplot2':\n\n    last_plot\n\n\nThe following object is masked from 'package:stats':\n\n    filter\n\n\nThe following object is masked from 'package:graphics':\n\n    layout\n\n\nWarning: package 'DT' was built under R version 4.2.3\n\n\n\nAttaching package: 'DT'\n\n\nThe following objects are masked from 'package:shiny':\n\n    dataTableOutput, renderDataTable\n\n\nPhantomJS not found. You can install it with webshot::install_phantomjs(). If it is installed, please make sure the phantomjs executable can be found via the PATH variable.\n\n\n\nListening on http://127.0.0.1:6416"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
