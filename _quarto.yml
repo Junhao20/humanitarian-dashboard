@@ -7,10 +7,12 @@ website:
     left:
       - text: "Dashboard"
         file: index.qmd
-      - text: "About"
+      - text: "Introduction"
         file: about.qmd
       - text: "Summary Stats"
         file: summary.qmd
+      - text: "Instruction on Dashboard"
+        file: instruction.qmd
 
 format:
   html:
