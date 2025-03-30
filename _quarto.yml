@@ -11,7 +11,7 @@ website:
         file: about.qmd
       - text: "Summary Stats"
         file: summary.qmd
-      - text: "Instruction on Dashboard"
+      - text: "Instructions to the dashboard"
         file: instruction.qmd
 
 format:
